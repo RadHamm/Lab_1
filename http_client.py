@@ -1,3 +1,6 @@
+# Steven Hamm
+# Student ID: N00678493
+
 from socket import * 
 import ssl
 server_name = 'gaia.cs.umass.edu' 
